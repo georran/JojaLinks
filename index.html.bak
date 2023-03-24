@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevLinks</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main id="page">
+        <div id="profile">
+            <img id="joja" src="assets/profile.jpg" alt="Georran Patrick">
+            <p>@g_orran</p>
+        </div>
+        <div id="mode">
+            <button type="submit"><img src="assets/dark.svg" alt="Modo Escuro"></button>
+        </div>
+        <div id="links">
+            <button type="submit">Conheça o IPTell</button>
+            <button type="submit">Integrações com ERP's e CRM's</button>
+            <button type="submit">Parceiros</button>
+            <button type="submit">Nosso Colaboradores</button>
+        </div>
+        <div id="social">
+            <a href="http://"><img id="github" src="assets/git.svg" alt="github"></a>
+            <!-- <a href="https://fb.me/Georran"><img id="facebook" src="assets/fb.svg" alt="facebook"></a> -->
+            <a href="http://instagr.am/g_orran"><img id="instagram" src="assets/ig.svg" alt="instagram"></a>
+            <a href="https://www.youtube.com/channel/UCLdk1FTCuiWbyEuZRHb27Bw"><img id="youtube" src="assets/yt.svg" alt="youtube"></a>
+            <a href="https://www.linkedin.com/in/georran-patrick-novaes-mariano-732550156/"><img id="linkedin" src="assets/lin.svg" alt="linkedin"></a>
+        </div>
+        <footer>Feito com 🖤 pelo Joja</footer>
+    </main>
+</body>
+</html>
