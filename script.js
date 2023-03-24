@@ -10,4 +10,4 @@ function toggleMode() {
   } else {
     img.setAttribute('src', './assets/profile.jpg')
   }
-}git add
+}
